@@ -1,6 +1,8 @@
 # Stock Price Prediction and Trading Strategy
 
-Welcome to my personal project on stock price prediction and trading strategy using linear regression! This project is a culmination of my learning and application of linear regression techniques to predict stock prices and develop a trading strategy. The project is built using Python and leverages historical stock data to make future predictions.
+Welcome to my personal project on stock price prediction and trading strategy using linear regression! This project is a culmination of my learning and application of linear regression techniques to predict stock prices and develop a trading strategy. The project is built using Python and leverages historical stock data to make future predictions. 
+
+Bare in mind this was my first foray into the world of algorithmic trading/finance, hence it wasn't the greatest model in the world, but I did learn a lot. 
 
 ## Overview
 
